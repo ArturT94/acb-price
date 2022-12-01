@@ -1,5 +1,5 @@
 <footer>
-        <div class="container footer_blog">
+        <div class="container-fluid footer_blog">
             <div class="row">
                 <div class="col-md-12 footer_blog_title">Блог</div>
                 <div class="col-md blog_text">
@@ -37,7 +37,7 @@
             </div>
         </div>
     <nav>
-        <div class="container">
+        <div class="container-fluid" style="padding: 0;">
             <div class="row">
                 <ul class="nav_menu" style="border-radius: 5px 5px 0 0">
                     <li><a href="#">Каталог</a></li>
@@ -56,7 +56,7 @@
             </div>
         </div>
     </nav>
-    <div class="container footer_under_nav">
+    <div class="container-fluid footer_under_nav">
         <div class="row">
             <div class="col-md-12">
                 <img class="footer_img" src="/images/logo_footer.png" alt="">
@@ -73,9 +73,32 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid fixed-overlay">
+        <div class="row">
+            <div class="col-md-12">
+                <form action="" class="popup">
+                    <div class="form_title">
+                        Написать отзыв
+                    </div>
+                    <input type="name" placeholder="Ведите имя">
+                    <input type="email" placeholder="Ведите ваш Email">
+                    <textarea name="" id="" cols="30" rows="5" placeholder="Отзывы"></textarea>
+                    <div class="form_politic">
+                    <input id="form_checkbox" type="checkbox">
+                    <label for="form_checkbox" class="form_text">Нажимая кнопку “Отправить отзыв”, я даю своё согласие на обработку моих персональных данных в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ “О песональных данных”, на условиях и для целей определённых в Согласии на обработку персональных данных</label>
+                    </div>
+                    <div class="form_buttons">
+                        <a href="">Отменить</a>
+                        <button type="submit">Отправить отзыв</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/ajaxForm.js"></script>
 </footer>
 </body>
 </html>

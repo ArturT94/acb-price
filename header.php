@@ -13,13 +13,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/e7042fc37a.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <header>
     <section class="header_up">
     <div class="container">
         <div class="row">
-            <div class="col-xl-3 header_up_2" style="text-align: right"><b>
+            <div class="col-xl-3 header_up_2" style="text-align: right;"><b style="font-size: 13px">
                 ИНТЕРНЕТ-МАГАЗИН АККУМУЛЯТОРОВ</b>
             </div>
             <div class="col-md-4 header_up_2">

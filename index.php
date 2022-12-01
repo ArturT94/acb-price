@@ -136,7 +136,7 @@
                         </div>
                     </div>
             </div>
-                    <h2 class="main_title">Популярные товаров</h2>
+                    <h2 class="main_title">Популярные товары</h2>
                 <div class="main_product">
                     <div>
                     <div class="preview_product">
@@ -149,7 +149,7 @@
                         <div class="article_product">Арт: К02П3П34</div>
                         <div class="availability_product">
                             <div class="btn_availability">В наличии</div>
-                            <div class="div availability_stat">
+                            <div class="availability_stat">
                                 <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                 <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                             </div>
@@ -174,7 +174,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
@@ -199,7 +199,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
@@ -224,7 +224,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
@@ -249,7 +249,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
@@ -274,7 +274,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
@@ -299,7 +299,7 @@
                             <div class="article_product">Арт: К02П3П34</div>
                             <div class="availability_product">
                                 <div class="btn_availability">В наличии</div>
-                                <div class="div availability_stat">
+                                <div class="availability_stat">
                                     <a href="#"><img src="/images/diagram.png" alt="" class="stat"></a>
                                     <a href="#"><img src="/images/Избранное.png" alt="" class="favourites"></a>
                                 </div>
