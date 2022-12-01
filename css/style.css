@@ -1019,7 +1019,7 @@ li{
 #form_checkbox:checked ~ label:before{
     background-color: #911614;
     border: 1px solid #911614;
-    background-image: url("/images/check-solid.svg");
+    background-image: url("images/check-solid.svg");
 }
 
 .form_text{
